@@ -1,18 +1,5 @@
 # 🧠 MERN Whiteboard App
 
-**COMPANY**: CODTECH IT SOLUTIONS
-
-**NAME**: MAULIK GUPTA
-
-**INTERN ID**: CT08DF401
-
-**DOMAIN**: MERN STACK WEB DEVELOPMENT
-
-**DURATION**: 8 WEEKS
-
-**MENTOR**: NEELA SANTOSH
-
-
 A real-time collaborative whiteboard tool built using the MERN stack and WebSockets. Draw, undo, redo, clear, and sync drawings across multiple users instantly — perfect for collaborative sketching, brainstorming, and online teaching.
 
 ---
